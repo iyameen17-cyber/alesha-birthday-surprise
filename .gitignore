@@ -1,0 +1,8 @@
+# original photo (the site uses assets/alesha.jpg)
+WhatsApp Image *.jpeg
+
+# misc
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
